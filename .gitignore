@@ -1,0 +1,7 @@
+.DS_Store
+
+# Create file called config.js based on sample & follow readme
+config/config.js
+
+# Using prepros to compile scss to css
+prepros-6.config
